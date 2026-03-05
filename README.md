@@ -1,16 +1,11 @@
 <h1 align="center">🔐 Projeto Tela de Login</h1>
 
-<p align="center">
-Projeto de programação Front-End desenvolvido em aula.
-</p>
-
 ---
 
 ## ⌨️ Descrição
 
 Projeto de programação Front-End realizado durante a aula do professor  
 [Leonardo Rocha](https://github.com/leonardossrocha) no dia **04/03/2026**.
-
 Durante a aula, revisamos conceitos básicos para a construção de um site simples utilizando **HTML5** e **CSS3**.  
 Como atividade prática, foi proposta a criação de uma **tela de login**, com o objetivo de aplicar na prática a estrutura do HTML e a estilização com CSS.
 
@@ -37,14 +32,12 @@ Ferramentas utilizadas:
 
 O processo criativo foi relativamente simples.  
 A proposta inicial era desenvolver uma tela básica utilizando **cores em gradiente** para compor o visual da interface.
-
 Durante o desenvolvimento, percebi que poderia adicionar também **uma imagem de fundo**, o que ajudaria a deixar a interface um pouco mais interessante visualmente.
-
 A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta inicial do projeto, mas adicionando esse pequeno detalhe estético para melhorar a aparência geral da página.
 
 ---
 
-## 🖼️ Resultado do projeto
+##  Resultado do projeto
 
 <p align="center">
   <img src="acessar.png" width="700">
