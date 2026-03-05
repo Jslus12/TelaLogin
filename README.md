@@ -1,6 +1,4 @@
-<h1 align="center">Projeto autoral</h1>
-
-<h1 align="center">>Tela Login</h1>
+<h1 align="center">Projeto tela login</h1>
 
 #### ⌨️ Descrição
 Projeto de programação Front-End realizado na aula do professor [Leonardo Rocha](https://github.com/leonardossrocha) no dia 04/03/2026.
