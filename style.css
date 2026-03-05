@@ -1,0 +1,47 @@
+body{
+    background-image: url(monte.jpg);
+    background-size: cover; /* Ajusta a imagem para cobrir o container */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    height: 500px; /* Define uma altura */
+}
+form{
+    padding: 40px;
+    width: 250px;
+}
+.form h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+.form label{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.form input{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.form button{
+    margin: 0 auto;
+    width: 250px;
+    border: none;
+    padding: 8px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 10px;
+    display: block;
+    margin-top: 10px;
+}
+
+#login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
