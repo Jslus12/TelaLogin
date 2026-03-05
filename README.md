@@ -30,8 +30,8 @@ A seguir, apresento o resultado final do projeto desenvolvido.
   <img src="https://img.shields.io/badge/VS_Code-editor-999999?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000" height="25">
 </p>
  ---
- 
-Conexões 📶
+
+Perfil  | Links
 ------- | ------
 Github | [Perfil](https://github.com/Jslus12)
 Linkedin | [Perfil](https://www.linkedin.com/in/jo%C3%A3o-lucas-d-ba44923b0/)
