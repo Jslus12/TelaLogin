@@ -58,4 +58,4 @@ A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta 
 ---
 
 
-##### _Por enquanto isso é tudo._
+###### <p align="center">_Por enquanto isso é tudo._</p>
