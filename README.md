@@ -1,20 +1,22 @@
 # Tela Login
 
-#### 
 <h1 align="center">Projeto autoral</h1>
 
-# 🖥️⌨️ Objetivos do projeto
+#### ⌨️ Descrição
+
+Projeto de programação Front-End realizado na aula do professor [Leonardo Rocha](https://github.com/leonardossrocha) no dia 04/03/2026.
+Nesssa aula, aprendemos o básico de um site simples em HTML5 e CSS3, onde nos foi proposto a criação de uma tela login.
+> Sim, já realizamos um projeto assim, entretanto, esse é um projeto mais simples.
+Enfim, segue o projeto.
+
+# 🖥️ Objetivos do projeto
 Desenvolver uma tela de Login usando:
 > HTML5, CSS3
 
 Aplicativos usados:
 > VsCode (Programação/Hospedagem), Github (Mostrar projeto), Linkedin (Divulgação)
 
-#### Descrição
 
-Projeto aula programação Front-End, na Unicesumar, campus Londrina.
-O professor [Leonardo Rocha](https://github.com/leonardossrocha) introduziu os conceitos de Framework, apresentando o Bootstrap.
-O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolvimento. 
 
 #### ![Imagem tela logar](<img.png>)
 
