@@ -6,7 +6,7 @@ Nesssa aula, aprendemos o básico de um site simples em HTML5 e CSS3, onde nos f
 > Sim, já realizamos um projeto assim, entretanto, esse é um projeto mais simples.
 Enfim, segue o projeto.
 
-##### 🖥️ Objetivos do projeto
+#### 🖥️ Objetivos do projeto
 Desenvolver uma tela de Login usando:
 > HTML5, CSS3
 Aplicativos usados:
