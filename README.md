@@ -21,6 +21,7 @@ A seguir, apresento o resultado final do projeto desenvolvido.
 
 ![preview](acessar.png)
 
+---
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20andamento-4a4a4a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
   <img src="https://img.shields.io/badge/GitHub-repository-3a3a3a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
@@ -29,11 +30,10 @@ A seguir, apresento o resultado final do projeto desenvolvido.
   <img src="https://img.shields.io/badge/VS_Code-editor-999999?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000" height="25">
 </p>
 
----
 ### Autor
 
-[João Lucas Delbianco](https://github.com/Jslus12)
+>[João Lucas Delbianco](https://github.com/Jslus12)
 
-[LinkeDin](https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
+>[LinkeDin](https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
 
 > _Por enquanto isso é tudo_
