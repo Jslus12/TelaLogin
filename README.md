@@ -1,9 +1,6 @@
-# Tela Login
-
 <h1 align="center">Projeto autoral</h1>
 
 #### ⌨️ Descrição
-
 Projeto de programação Front-End realizado na aula do professor [Leonardo Rocha](https://github.com/leonardossrocha) no dia 04/03/2026.
 Nesssa aula, aprendemos o básico de um site simples em HTML5 e CSS3, onde nos foi proposto a criação de uma tela login.
 > Sim, já realizamos um projeto assim, entretanto, esse é um projeto mais simples.
@@ -12,13 +9,11 @@ Enfim, segue o projeto.
 ##### 🖥️ Objetivos do projeto
 Desenvolver uma tela de Login usando:
 > HTML5, CSS3
-
 Aplicativos usados:
 > VsCode (Programação/Hospedagem), Github (Mostrar projeto), Linkedin (Divulgação)
 
-
 #### Processo criativo
-O processo criativo foi o mais simples, no trabalho, foi proposto uma tela simples com cores gradientes, observando o código, percebi que posso adicionar uma foto de background, então, fiz essa tela login simples;
+O processo criativo foi o mais simples, no trabalho, foi proposto uma tela simples com cores gradientes, observando o código, percebi que posso adicionar uma foto de background, então, fiz essa tela login simples:
 
 #### ![Imagem tela logar](<acessar.png>)
 
@@ -33,4 +28,7 @@ O processo criativo foi o mais simples, no trabalho, foi proposto uma tela simpl
 ### Autor
 
 [João Lucas Delbianco](https://github.com/Jslus12)
+
 [LinkeDin](https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
+
+> _Por enquanto isso é tudo_
