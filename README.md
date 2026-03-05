@@ -18,16 +18,11 @@ Aplicativos usados:
 
 
 
-#### ![Imagem tela logar](<img.png>)
-
-## 🚀 Tecnologias
+#### ![Imagem tela logar](<monte.jpg>)
 
 ![HTML5](https://img.shields.io/badge/HTML5-structure-555555?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-style-777777?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/VS_Code-editor-999999?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-
-## 📌 Status
-
 ![Status](https://img.shields.io/badge/status-finalizado-2b2b2b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 
 
