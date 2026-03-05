@@ -20,11 +20,13 @@ Aplicativos usados:
 
 #### ![Imagem tela logar](<monte.jpg>)
 
-![HTML5](https://img.shields.io/badge/HTML5-structure-555555?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-style-777777?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![VSCode](https://img.shields.io/badge/VS_Code-editor-999999?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-![Status](https://img.shields.io/badge/status-finalizado-2b2b2b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/status-finalizado-2b2b2b?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
+  <img src="https://img.shields.io/badge/GitHub-repository-3a3a3a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
+  <img src="https://img.shields.io/badge/HTML5-structure-555555?style=flat-square&logo=html5&logoColor=white&labelColor=white&labelColor=000000" height="25">
+  <img src="https://img.shields.io/badge/CSS3-style-777777?style=flat-square&logo=css3&logoColor=white&labelColor=000000" height="25">
+  <img src="https://img.shields.io/badge/VS_Code-editor-999999?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000" height="25">
+</p>
 
 ### Autor
 
