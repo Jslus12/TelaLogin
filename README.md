@@ -48,8 +48,7 @@ A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta 
   <img src="https://img.shields.io/badge/VS_Code-999999?style=flat-square&logo=visualstudiocode&logoColor=white" height="25">
 </p>
 
-
-## 🌐 Contato
+<p align="center">Autor</p>
 
 <p align="center">
 <a href="https://github.com/Jslus12">GitHub</a> •
@@ -58,6 +57,5 @@ A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta 
 
 ---
 
-<p align="center">
-<i>Por enquanto isso é tudo.</i>
-</p>
+
+##### _Por enquanto isso é tudo._
