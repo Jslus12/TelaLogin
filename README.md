@@ -9,7 +9,7 @@ Nesssa aula, aprendemos o básico de um site simples em HTML5 e CSS3, onde nos f
 > Sim, já realizamos um projeto assim, entretanto, esse é um projeto mais simples.
 Enfim, segue o projeto.
 
-# 🖥️ Objetivos do projeto
+##### 🖥️ Objetivos do projeto
 Desenvolver uma tela de Login usando:
 > HTML5, CSS3
 
@@ -17,8 +17,10 @@ Aplicativos usados:
 > VsCode (Programação/Hospedagem), Github (Mostrar projeto), Linkedin (Divulgação)
 
 
+#### Processo criativo
+O processo criativo foi o mais simples, no trabalho, foi proposto uma tela simples com cores gradientes, observando o código, percebi que posso adicionar uma foto de background, então, fiz essa tela login simples;
 
-#### ![Imagem tela logar](<monte.jpg>)
+#### ![Imagem tela logar](<acessar.jpg>)
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-finalizado-2b2b2b?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
@@ -31,5 +33,4 @@ Aplicativos usados:
 ### Autor
 
 [João Lucas Delbianco](https://github.com/Jslus12)
-
 [LinkeDin](https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
