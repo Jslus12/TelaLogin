@@ -1,5 +1,4 @@
 <h1 align="center">Projeto tela login</h1>
----
 
 #### ⌨️ Descrição
 Projeto de programação Front-End realizado durante a aula do professor  [Leonardo Rocha](https://github.com/leonardossrocha) no dia 04/03/2026.
@@ -13,8 +12,9 @@ Desenvolver uma tela de Login usando:
 Aplicativos usados:
 > VsCode (Programação/Hospedagem), Github (Mostrar projeto), Linkedin (Divulgação)
 
-#### Processo criativo
-O processo criativo foi relativamente simples. No trabalho foi proposta a criação de uma tela básica utilizando cores em gradiente para compor o visual da interface. Durante a análise e desenvolvimento do código, percebi que havia a possibilidade de adicionar também uma imagem de fundo, o que poderia deixar a tela um pouco mais interessante visualmente. A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta inicial de simplicidade, mas adicionando esse pequeno detalhe estético para melhorar a aparência geral da página.
+#### 🧑‍💻 Processo criativo
+O processo criativo foi relativamente simples. No trabalho foi proposta a criação de uma tela básica utilizando cores em gradiente para compor o visual da interface. Durante a análise e desenvolvimento do código, percebi que havia a possibilidade de adicionar também uma imagem de fundo, o que poderia deixar a tela um pouco mais interessante visualmente. 
+A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta inicial de simplicidade, mas adicionando esse pequeno detalhe estético para melhorar a aparência geral da página.
 
 
 #### ![Imagem tela logar](<acessar.png>)
