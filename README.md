@@ -11,7 +11,6 @@ Como atividade prática, foi proposta a criação de uma **tela de login**, com 
 
 > Vale destacar que já realizamos um projeto semelhante anteriormente, porém este foi pensado como uma versão mais simples, focada principalmente na fixação dos conceitos fundamentais apresentados em aula.
 
----
 
 ## 🖥️ Objetivos do projeto
 
@@ -26,7 +25,6 @@ Ferramentas utilizadas:
 - GitHub — hospedagem do projeto
 - LinkedIn — divulgação
 
----
 
 ## 🧑‍💻 Processo criativo
 
@@ -35,7 +33,6 @@ A proposta inicial era desenvolver uma tela básica utilizando **cores em gradie
 Durante o desenvolvimento, percebi que poderia adicionar também **uma imagem de fundo**, o que ajudaria a deixar a interface um pouco mais interessante visualmente.
 A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta inicial do projeto, mas adicionando esse pequeno detalhe estético para melhorar a aparência geral da página.
 
----
 
 ##  Resultado do projeto
 
@@ -43,7 +40,6 @@ A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta 
   <img src="acessar.png" width="700">
 </p>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20andamento-4a4a4a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
@@ -52,7 +48,6 @@ A partir dessa ideia, desenvolvi uma tela de login simples, mantendo a proposta 
   <img src="https://img.shields.io/badge/VS_Code-999999?style=flat-square&logo=visualstudiocode&logoColor=white" height="25">
 </p>
 
----
 
 ## 🌐 Contato
 
