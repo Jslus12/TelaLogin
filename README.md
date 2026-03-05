@@ -29,11 +29,11 @@ A seguir, apresento o resultado final do projeto desenvolvido.
   <img src="https://img.shields.io/badge/CSS3-style-777777?style=flat-square&logo=css3&logoColor=white&labelColor=000000" height="25">
   <img src="https://img.shields.io/badge/VS_Code-editor-999999?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000" height="25">
 </p>
-
-[![Status](https://img.shields.io/badge/status-finalizado-2b2b2b?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-repositorio)
-
-[João Lucas Delbianco](https://github.com/Jslus12)
-
-[LinkeDin](https://www.linkedin.com/in/jo%C3%A3o-d-ba44923b0/)
+ ---
+ 
+Conexões 📶
+------- | ------
+Github | [Perfil](https://github.com/Jslus12)
+Linkedin | [Perfil](https://www.linkedin.com/in/jo%C3%A3o-lucas-d-ba44923b0/)
 
 > _Por enquanto isso é tudo_
