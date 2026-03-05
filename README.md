@@ -15,8 +15,6 @@ Aplicativos usados:
 #### Processo criativo
 O processo criativo foi o mais simples, no trabalho, foi proposto uma tela simples com cores gradientes, observando o código, percebi que posso adicionar uma foto de background, então, fiz essa tela login simples:
 
-#### ![Imagem tela logar](<acessar.png>)
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20andamento-4a4a4a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
   <img src="https://img.shields.io/badge/GitHub-repository-3a3a3a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="25">
@@ -25,6 +23,8 @@ O processo criativo foi o mais simples, no trabalho, foi proposto uma tela simpl
   <img src="https://img.shields.io/badge/VS_Code-editor-999999?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000" height="25">
 </p>
 
+#### ![Imagem tela logar](<acessar.png>)
+---
 ### Autor
 
 [João Lucas Delbianco](https://github.com/Jslus12)
