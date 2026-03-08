@@ -1,6 +1,6 @@
 <h1 align="center">🔐 Projeto Tela de Login</h1>
 
----
+--- 
 
 ## ⌨️ Descrição
 
@@ -9,7 +9,7 @@ Projeto de programação Front-End realizado durante a aula do professor
 Durante a aula, revisamos conceitos básicos para a construção de um site simples utilizando **HTML5** e **CSS3**.  
 Como atividade prática, foi proposta a criação de uma **tela de login**, com o objetivo de aplicar na prática a estrutura do HTML e a estilização com CSS.
 
-> Vale destacar que já realizamos um projeto semelhante anteriormente, porém este foi pensado como uma versão mais simples, focada principalmente na fixação dos conceitos fundamentais apresentados em aula.
+> Vale destacar que já realizamos um projeto semelhante anteriormente, porém este foi pensado como uma versão mais simples, focada principalmente na fixação dos conceitos fundamentais apresentados em sala de aula.
 
 
 ## 🖥️ Objetivos do projeto
